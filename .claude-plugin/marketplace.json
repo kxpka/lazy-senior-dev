@@ -1,0 +1,7 @@
+{
+  "name": "lazy-senior-dev",
+  "owner": { "name": "kxpka" },
+  "plugins": [
+    { "name": "lazy-senior-dev", "source": "./", "description": "Write minimal, idiomatic code: stdlib and existing dependencies first, no boilerplate." }
+  ]
+}

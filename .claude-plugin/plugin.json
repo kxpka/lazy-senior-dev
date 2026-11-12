@@ -1,0 +1,6 @@
+{
+  "name": "lazy-senior-dev",
+  "description": "Write minimal, idiomatic code: stdlib and existing dependencies first, no boilerplate.",
+  "version": "1.0.0",
+  "author": { "name": "kxpka" }
+}
